@@ -1,0 +1,19 @@
+{
+    "banners": [
+      {
+        "id": 1,
+        "img": "https://www.oss.kr/plugins/oss/components/Modules/DeveloperCompetition/assets/img/img_developer_challenge4_2022.jpg",
+        "linkTo": ""
+      },
+      {
+        "id": 2,
+        "img": "https://yozm.wishket.com/media/news/985/image001.png",
+        "linkTo": ""
+      },
+      {
+        "id": 3,
+        "img": "https://blog.kakaocdn.net/dn/d5hJKT/btqC6POJwrQ/q1KCkaOUcMqNa9LZEambF0/img.jpg",
+        "linkTo": ""
+      }
+    ]
+  }
