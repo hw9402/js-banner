@@ -6,9 +6,9 @@ import 'swiper/css/navigation';
 import 'swiper/css/pagination';
 import 'swiper/css/scrollbar';
 import BannerImage from '../../pages/Main/banner.json';
-import './style.css';
+import './Banner.css';
 
-export default (props) => {
+export default () => {
   console.log(BannerImage.banners);
   return (
     <Swiper
