@@ -6,9 +6,6 @@ import 'swiper/css/navigation';
 import 'swiper/css/pagination';
 import 'swiper/css/scrollbar';
 import BannerImage from '../../pages/Main/banner.json';
-import img1 from './assets/img1.jpg';
-import img2 from './assets/img2.png';
-import img3 from './assets/img3.jpg';
 import './style.css';
 
 export default (props) => {
